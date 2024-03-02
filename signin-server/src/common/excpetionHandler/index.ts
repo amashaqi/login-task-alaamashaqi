@@ -1,0 +1,1 @@
+export { CustomException } from './exception';

@@ -24,7 +24,7 @@ Installation:
 
 - Make sure you have node version v20.11.1
 - Change directory to signin-server then type yarn install
-- Step mongoDB server and connect to it
+- Se tup mongoDB server and connect to it
 
 running:
 

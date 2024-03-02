@@ -1,6 +1,6 @@
 # Signin Application Frontend and Backend
 
-## Backend services built with Nest and typescript with MongoDB
+## Backend services built with Nest and Typescript with MongoDB
 
 These are back-end services to be integrated with the Web Signin Application.
 
@@ -18,21 +18,22 @@ Welcome User REST API
 
 1. Generate a welcome user message [GET] => /v1/auth/welcome
 
-## Backend Installation and running Instructions
+## Backend Installation and Running Instructions
 
 Installation:
 
 - Make sure you have node version v20.11.1
 - Change directory to signin-server then type yarn install
+- Step mongoDB server and connect to it
 
 running:
 
 - The port is 3008 if it's used change it
-- For starting the server locally change directory to signin-server then type yarn start dev
+- For starting the server locally change the directory to signin-server then type yarn start dev
 
 ## Frontend built with React and typescript
 
-## Frontend Installation and running Instructions
+## Frontend Installation and Running Instructions
 
 Installation:
 
@@ -41,4 +42,4 @@ Installation:
 running:
 
 - The port is 3000 if it's used change it
-- For starting the server locally change directory to signin-server then type yarn start
+- For starting the server locally change the directory to signin-server then type yarn start

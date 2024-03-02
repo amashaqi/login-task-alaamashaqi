@@ -23,7 +23,7 @@ Welcome User REST API
 Installation:
 
 - Make sure you have node version v20.11.1
-- create .env if not exsist file and move details in example.env to the file
+- create .env file if not exist and move details in example.env to the file
 - Change directory to signin-server then type yarn install
 - Se tup mongoDB server and connect to it
 
@@ -38,7 +38,7 @@ running:
 
 Installation:
 
-- create .env if not exsist file and move details in example.env to the file
+- create .env file if not exist and move details in example.env to the file
 - Change directory to signin-web then type yarn install
 
 running:

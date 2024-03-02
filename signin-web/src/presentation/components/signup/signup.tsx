@@ -134,8 +134,7 @@ const Signin = () => {
             label="Name"
             variant="outlined"
             placeholder="Enter your name"
-            fullWidth
-            required
+            fullWidth  
             value={name}
             onChange={(e) => handleNameChange(e.target.value)}
           />
